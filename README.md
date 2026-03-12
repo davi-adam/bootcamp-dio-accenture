@@ -1,19 +1,35 @@
 # Bootcamp DIO + Accenture
 
-Repositório com projetos e desafios desenvolvidos durante o bootcamp.
+Este repositório reúne os projetos e desafios desenvolvidos durante o **Bootcamp da Digital Innovation One (DIO) em parceria com a Accenture**.
 
-## Projetos
+O objetivo deste repositório é registrar minha evolução nos estudos de **programação, computação em nuvem e desenvolvimento de software**, aplicando conceitos aprendidos durante o bootcamp em projetos práticos.
 
-### ☁️ AWS
-- Relatório de implementação de serviços AWS
+## 📂 Projetos
 
-### 🐳 Docker
-- Estrutura de microsserviços com Nginx e PHP
+### ☁️ Implementação de Serviços AWS
+Relatório simulando a implementação de serviços da AWS para uma empresa fictícia, com foco em redução de custos e melhoria de infraestrutura em nuvem.
 
-## Tecnologias estudadas
+### 🐳 Docker e Microsserviços
+Projeto demonstrando um cenário simples de microsserviços utilizando **Docker, Nginx, PHP e MySQL**, com balanceamento de carga entre serviços.
 
-- AWS
+### ☕ Programação Orientada a Objetos com Java
+Projeto desenvolvido para praticar os principais pilares da **POO**:
+- Abstração
+- Encapsulamento
+- Herança
+- Polimorfismo
+
+O sistema simula um **Bootcamp onde desenvolvedores podem se inscrever em cursos e mentorias e acumular experiência (XP).**
+
+## 🚀 Tecnologias utilizadas
+
+- Java
 - Docker
-- Nginx
+- AWS
 - PHP
-- Cloud Computing
+- MySQL
+- Nginx
+
+---
+
+📚 Projetos desenvolvidos como parte do processo de aprendizado no bootcamp.
